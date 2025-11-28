@@ -50,11 +50,6 @@
   font-weight: bold;
 }
 
-.header__content {
-  display: flex;
-  justify-content: space-between;
-}
-
 .header__title {
   font-size: 58px;
   line-height: 72px;
