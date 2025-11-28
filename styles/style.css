@@ -84,20 +84,21 @@
 }
 
 .header__footer {
-  font-size: 16px;
-  line-height: 20px;
-  color: #838383;
   position: absolute;
   bottom: 40px;
   left: 80px;
-  list-style-type: none;
   margin-top: auto;
 }
 
 .header__paragraph {
+  font-weight: 500;
   font-size: 16px;
   line-height: 20px;
   color: #838383;
+  margin: 0;
+}
+
+.header__paragraph:last-of-type {
   position: absolute;
   bottom: 40px;
   right: 80px;
