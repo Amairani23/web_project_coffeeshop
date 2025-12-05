@@ -9,7 +9,7 @@ Contiene:
 - Formulario de reservación: formulario
 - Pie de página: logo, enlaces a redes sociales.
 
-[![imagen de la página ](image/page-coffeeshop.jpg "imagen de la página ")](image/page-coffeeshop.jpg "imagen de la página ")
+![imagen de la página ](https://github.com/Amairani23/web_project_coffeeshop/blob/34d015d40d3c8e885a1b9f144c4615badb90381f/images/page-coffeeshop.jpg "imagen de la página ")
 
 > - **Nota:** Por ahora solo es la estructura de visualización, no tiene funcionalidad el formulario.
 
@@ -30,7 +30,7 @@ Para una mejor organización de código y archivos, se utilizo la metodología d
     .card__title--large { }
 
 Archivos:
-[![imagen ilustrativa de los archivos ](image/files.jpg "imagen ilustrativa de los archivos ")](image/files.jpg "imagen ilustrativa de los archivos ")
+![imagen ilustrativa de los archivos ](https://github.com/Amairani23/web_project_coffeeshop/blob/34d015d40d3c8e885a1b9f144c4615badb90381f/images/files.jpg)
 
 ## Tecnologías utilizadas:
 
