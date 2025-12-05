@@ -30,14 +30,15 @@ Para una mejor organización de código y archivos, se utilizo la metodología d
     .card__title--large { }
 
 Archivos:
+
 ![imagen ilustrativa de los archivos ](https://github.com/Amairani23/web_project_coffeeshop/blob/34d015d40d3c8e885a1b9f144c4615badb90381f/images/files.jpg)
 
 ## Tecnologías utilizadas:
 
-- :fa-html5: HTML
-- :fa-css3: CSS
+- HTML
+- CSS
 - VS Code
-- :fa-github-square: Git
+- Git
 
 ### Mejoras:
 
